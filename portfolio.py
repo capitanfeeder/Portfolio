@@ -158,7 +158,7 @@ def show_skills():
 
     # Etiqueta de inglés con enlace al certificado de EF SETS
     english_certificate_link = "https://www.efset.org/cert/HxTKGT"
-    st.markdown(f"**Inglés:** [Certificado EF SET]({english_certificate_link})")
+    st.markdown(f"**Inglés: C1** [Certificado EF SET]({english_certificate_link})")
 
 
 def show_contact():
