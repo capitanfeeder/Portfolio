@@ -153,6 +153,14 @@ def show_skills():
     # Muestra las habilidades blandas
     st.write(soft_skills)
 
+    # Idiomas
+    st.header("Idiomas")
+
+    # Etiqueta de inglés con enlace al certificado de EF SETS
+    english_certificate_link = "https://www.efset.org/cert/HxTKGT"
+    st.markdown(f"**Inglés:** [Certificado EF SETS]({english_certificate_link})")
+
+
 def show_contact():
     st.header("Contacto")
 
