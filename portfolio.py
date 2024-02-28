@@ -74,6 +74,12 @@ def show_projects():
             "description": "Proyecto donde junto a mi equipo, automatizamos el proceso de recolección, exploración, optimización y visualización de datos, como así también el entrenamiento de modelos de Machine Learning para realizar un trabajo óptimo en virtud de la inmensa cantidad de información manipulada. Todo esto con ayuda de los servicios de AWS.",
             "image": "taxis.jpg",
             "project_link": "https://github.com/capitanfeeder/Proyecto-Taxis-NYC"
+        },
+        {
+            "name": "Orquestación Automatizada con Apache Airflow",
+            "description": "El proyecto se centra en la automatización de procesos mediante el uso de Apache Airflow. Utilizando este framework de orquestación de flujos de trabajo, se ha desarrollado un sistema para realizar tareas de extracción, transformación y carga de datos de manera automatizada. Esto implica la creación de DAGs (Directed Acyclic Graphs) en Airflow para definir y ejecutar secuencias de tareas, que incluyen la descarga de datos, transformaciones, carga en una base de datos PostgreSQL y validación de la integridad de los datos cargados. El objetivo principal es optimizar y agilizar el flujo de trabajo de procesamiento de datos mediante la automatización de tareas repetitivas y la coordinación eficiente de las diferentes etapas del proceso.",
+            "image": "titanic.jpg",
+            "project_link": "https://github.com/capitanfeeder/Titanic-Airflow-DAG"
         }
     ]
 
